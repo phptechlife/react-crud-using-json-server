@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Gaurav Singh",
+      "email": "gaurav@gmail.com",
+      "mobile": "45645656",
+      "id": 4
+    },
+    {
+      "name": "Sara Doe",
+      "email": "sara@example.com",
+      "mobile": "234234234",
+      "id": 5
+    }
+  ]
+}
